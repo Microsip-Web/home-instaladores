@@ -7,13 +7,13 @@ interface Pack2022 {
 }
 
 export const packs: Pack2022[] = [
-	{
-		packYear: 2023,
-		packName: 'Microsip',
-		packImage:
-			'https://uploads-ssl.webflow.com/62ebdd458759bdb749120f22/62fd1574a682a39ee3c7a2ff_Isotipo.png',
-		packFrame: 'https://dor1k8lp3ljt2.cloudfront.net/DescargasSoporte/Microsip/2023-v2.html',
-	},
+	// {
+	// 	packYear: 2023,
+	// 	packName: 'Microsip',
+	// 	packImage:
+	// 		'https://uploads-ssl.webflow.com/62ebdd458759bdb749120f22/62fd1574a682a39ee3c7a2ff_Isotipo.png',
+	// 	packFrame: 'https://dor1k8lp3ljt2.cloudfront.net/DescargasSoporte/Microsip/2023-v2.html',
+	// },
 	{
 		packYear: 2023,
 		packName: 'CEO Móvil',
